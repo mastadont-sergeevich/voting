@@ -1,0 +1,9 @@
+# Общие правила
+node_modules/
+.env
+dist/
+*.log
+
+# Игнорируем папки сборки
+client/dist/
+server/dist/
